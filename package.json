@@ -1,0 +1,17 @@
+{
+  "name": "belajarnodejs",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brily Chandra",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.11.0",
+    "yargs": "^17.7.2"
+  }
+}
